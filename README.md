@@ -10,7 +10,7 @@ INSTALLATION:
 
 3- Open your Daw with any virtual instrument
 
-4- Run the notebook 
+4- Run the notebook...
 
-...and enjoy the catalog!
+...and enjoy the aarchive!
 
