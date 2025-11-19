@@ -3,10 +3,10 @@ Jupyter Notebook prototype for the automatic multimodal exploration of the light
 
 INSTALLATION:
 
-1 - Download all the files in the same folder
-2 - pip3 install Requirements.txt
-3 - Open your Daw with any virtual instrument
-4 - Run the notebook 
+1-Download all the files in the same folder
+2-pip3 install Requirements.txt
+3-Open your Daw with any virtual instrument
+4-Run the notebook 
 
 ...and enjoy the catalog!
 
