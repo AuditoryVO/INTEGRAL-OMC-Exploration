@@ -12,5 +12,5 @@ INSTALLATION:
 
 4- Run the notebook...
 
-...and enjoy the aarchive!
+...and enjoy the archive!
 
