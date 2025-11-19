@@ -5,8 +5,11 @@ This Jupyter Notebook prototype explores the light curves of the INTEGRAL-OMC ar
 INSTALLATION:
 
 1- Download all the files in the same folder
+
 2- pip3 install Requirements.txt
+
 3- Open your Daw with any virtual instrument
+
 4- Run the notebook 
 
 ...and enjoy the catalog!
