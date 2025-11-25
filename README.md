@@ -1,5 +1,5 @@
 # INTEGRAL-OMC Musical exploration
-This Jupyter Notebook prototype explores the light curves of the INTEGRAL-OMC archive following the score of a user selected MIDI file.
+This Jupyter Notebook prototype explores the light curves of the INTEGRAL-OMC archive following the score of a user selected MIDI file. It sends the MIDI notes of the loaded score (in MIDI format) to any user-selected MIDI synthesizer or Digital Audio Workstation (DAW) such as GarageBand, Reason or Reaper. Additionally, it shows a light curve associated to each note through the "best fit" period found in the data.
 <img width="1200" height="600" alt="3657000071" src="https://github.com/user-attachments/assets/2f5f18f6-0a00-4a7e-9575-70ad377a2c07" />
 
 INSTALLATION:
