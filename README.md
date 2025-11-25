@@ -4,13 +4,13 @@ This Jupyter Notebook prototype explores the light curves of the INTEGRAL-OMC ar
 
 INSTALLATION:
 
-1- Download all the files in the same folder
+1- Download all the content of this repo in a folder
 
-2- Run in your terminal pip3 install Requirements.txt
+2- In your terminal, run: pip3 install Requirements.txt
 
 3- Open your DAW with any virtual instrument
 
-4- In the notebook, change the path to your preferred MIDI file.
+4- Open the notebook and change the path to your preferred MIDI file.
 
 5- Run the notebook...
 
