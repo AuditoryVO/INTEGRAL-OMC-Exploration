@@ -8,9 +8,11 @@ INSTALLATION:
 
 2- pip3 install Requirements.txt
 
-3- Open your Daw with any virtual instrument
+3- Open your DAW with any virtual instrument
 
-4- Run the notebook...
+4- In the notebook, change the path to your preferred MIDI file.
 
-...and enjoy the archive!
+5- Run the notebook...
+
+...and enjoy the INTEGRAL-OMC archive!
 
