@@ -6,7 +6,7 @@ INSTALLATION:
 
 1- Download all the files in the same folder
 
-2- pip3 install Requirements.txt
+2- Run in your terminal pip3 install Requirements.txt
 
 3- Open your DAW with any virtual instrument
 
