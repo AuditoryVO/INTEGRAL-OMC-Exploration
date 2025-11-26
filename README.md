@@ -16,3 +16,5 @@ INSTALLATION:
 
 ...and enjoy the INTEGRAL-OMC archive!
 
+https://github.com/user-attachments/assets/b306aa12-30da-4f7d-a73f-ee8231dcfc31
+
